@@ -1,9 +1,8 @@
 # Mentalista
+Esse é mais um dos programas criados durante a imersão dev da Alura, um dia farei alterações para melhorar, mas por enquanto ficará assim.
+É um código simples, o front passou a ficar mais claro depois desses dias de imersão.
 
-Esse foi mais um dos programas que fiz durante a imersão dev da alura. ainda existem diversos
-desafios que vou acrescentar com o tempo ao script.
+Constitui num jogo de advinhação para acertar qual numero foi gerado de de 0 a 10
 
-Mentalista é um jogo qual você precisar acertar um determinado número. ideal para jogos de aposta, sorte, 
-ou até mesmo para aquela rodas de amigos num bar e quem errar toma um shot kkkkk.
-
-#ainda sem imagens por enquanto, motivos: O tempo curto por enquanto mais em breve eu solto kkkkkkk
+# PÁGINA INICIAL
+![imagem_2021-09-23_121914](https://user-images.githubusercontent.com/80359142/134535508-b962b595-955a-4d44-a5f3-9d670396c499.png)
